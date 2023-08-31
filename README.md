@@ -1,11 +1,7 @@
 
 # Data-Driven Insights for Eniac's Expansion into Brazil
 
-
-
-
-![Logo]()
-
+![Logo](https://assets.entrepreneur.com/content/3x2/2000/1691770256-marketing-campaigns-g-1127305026.jpg)
 
 ## Introduction
 
@@ -43,7 +39,7 @@ Using MySQL Workbench, automatically derived relationships are modified by elimi
 
 + The process of how I conducted the analysis is documented in this file.
 + 
-+ Here's the presentation [presentation](https://docs.google.com/presentation/d/1uDPXu_g8EoMk1Zz6S-CqLGh3-JrqcofP6eN_qW4pKWY/edit?usp=sharing)   with my findings including analysis , charts, visualization using Tableau and conclusion.  
++ Here's the [presentation](https://docs.google.com/presentation/d/1uDPXu_g8EoMk1Zz6S-CqLGh3-JrqcofP6eN_qW4pKWY/edit?usp=sharing)   with my findings including analysis , charts, visualization using Tableau and conclusion.  
 
 ## Key Insights
 
