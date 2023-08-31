@@ -30,13 +30,18 @@ With access to Magist's database, I delved deep into analysis and formulated dat
 
 Using MySQL Workbench, automatically derived relationships are modified by eliminating and substituting undesired connections with the required ones.
 
-
-
-
-
+![Logo](EER_Diagram_Magist.png)
 
 ## Analysis
 In alignment with Eniac's strategic concerns, a comprehensive exploration of Magist's database is undertaken to address pivotal questions. The main focus revolves around evaluating the compatibility of Magist's offerings with Eniac's high-end tech products, as well as assessing the timeliness of order deliveries. In addition to these core concerns, more specific queries have emerged, requiring the integration of different tables and data manipulation. To facilitate the execution of computationally intensive tasks, adjustments are recommended to MySQL Workbench's read timeout interval, thereby ensuring a smoother query execution process. 
+
+**Exploratory Analysis:**
+
++ How many orders are there in the dataset
++ Is Magist having user growth
++ How many products are there on the products table
++ What’s the price for the most expensive and cheapest products
++ What are the highest and lowest payment values
 
 **Products Analysis:**
 
