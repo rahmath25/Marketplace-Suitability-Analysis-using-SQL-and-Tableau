@@ -36,10 +36,29 @@ Using MySQL Workbench, automatically derived relationships are modified by elimi
 
 
 ## Analysis
+In alignment with Eniac's strategic concerns, a comprehensive exploration of Magist's database is undertaken to address pivotal questions. The main focus revolves around evaluating the compatibility of Magist's offerings with Eniac's high-end tech products, as well as assessing the timeliness of order deliveries. In addition to these core concerns, more specific queries have emerged, requiring the integration of different tables and data manipulation. To facilitate the execution of computationally intensive tasks, adjustments are recommended to MySQL Workbench's read timeout interval, thereby ensuring a smoother query execution process. 
 
-+ The process of how I conducted the analysis is documented in this file.
-+ 
-+ Here's the [presentation](https://docs.google.com/presentation/d/1uDPXu_g8EoMk1Zz6S-CqLGh3-JrqcofP6eN_qW4pKWY/edit?usp=sharing)   with my findings including analysis , charts, visualization using Tableau and conclusion.  
+**Products Analysis:**
+
++ Tech Product Categories: Investigating the tech product categories within Magist's offerings to ascertain compatibility with Eniac's high-end tech items. 
++ Sales of Tech Products: Quantifying the sales of tech products within the database snapshot timeframe, calculating the percentage in relation to overall product sales. 
++ Average Product Price: Calculating the average price of products sold through Magist's platform. 
++ Popularity of Expensive Tech Products: Employing the CASE WHEN function to determine if expensive tech products exhibit popularity. 
+
+**Sellers Analysis:** 
+
++ Data Duration: Determining the number of months covered by the data in the Magist database. 
++ Seller Counts: Calculating the total number of sellers and identifying the count of tech sellers, along with the percentage they represent of all sellers. 
++ Total Earnings: Evaluating the overall earnings of all sellers and specifically tech sellers. 
++ Average Monthly Income: Deriving the average monthly income for all sellers and tech-oriented ones. 
+
+**Delivery Time Analysis:** 
+
++ Average Delivery Time: Computing the average time interval between order placement and product delivery. 
++ Timeliness of Deliveries: Distinguishing between on-time deliveries and those with delays. 
+
+
+Here's the [presentation](https://docs.google.com/presentation/d/1uDPXu_g8EoMk1Zz6S-CqLGh3-JrqcofP6eN_qW4pKWY/edit?usp=sharing)   with my findings including analysis , charts, visualization using Tableau and conclusion.  
 
 ## Key Insights
 
