@@ -62,6 +62,7 @@ In alignment with Eniac's strategic concerns, a comprehensive exploration of Mag
 + Average Delivery Time: Computing the average time interval between order placement and product delivery. 
 + Timeliness of Deliveries: Distinguishing between on-time deliveries and those with delays. 
 
+## Data Analysis and Visualization
 
 Here's the [presentation](https://docs.google.com/presentation/d/1uDPXu_g8EoMk1Zz6S-CqLGh3-JrqcofP6eN_qW4pKWY/edit?usp=sharing)   with my findings including analysis , charts, visualization using Tableau and conclusion.  
 
